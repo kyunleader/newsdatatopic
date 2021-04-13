@@ -13,5 +13,11 @@ pandas, numpy, gensim, matplotlib </p>
 
 <h2>
 주요 기술 </h2>
-<p>
-한 화면에 여러개의 막대그래프 표시하기 (subplot), 토픽모델링 분석 하기, Okt를 사용하여 형태소 분석하기 </p>
+ <ul>
+   <li>한 화면에 여러개의 막대그래프 표시하기 (subplot)
+     </li>
+   <li>토픽모델링 분석 하기
+  </li>
+  <li>
+    Okt를 사용하여 형태소 분석하기 </li>
+  </ul>
